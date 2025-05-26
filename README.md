@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hola internuata 👋
 
+## Lenguajes de programación:
+![JS](https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+## Bases de datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-DA291C?style=flat)
 <!--
 **LeoRivera243/LeoRivera243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
